@@ -1,0 +1,12 @@
+#instruction{
+    color:black;
+    
+}
+#heading{
+    font-size:23px;
+}
+canvas{
+    background-color:orange;
+    box-shadow:5px;
+    margin:2px;
+}
